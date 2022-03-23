@@ -28,6 +28,22 @@ public class Socio {
         this.Telefono = Telefono;
     }
 
+    public String getTelefono2() {
+        return Telefono2;
+    }
+
+    public void setTelefono2(String Telefono2) {
+        this.Telefono2 = Telefono2;
+    }
+
+    public String getTelefono3() {
+        return telefono3;
+    }
+
+    public void setTelefono3(String telefono3) {
+        this.telefono3 = telefono3;
+    }
+
     public int getIdSocio() {
         return idSocio;
     }
